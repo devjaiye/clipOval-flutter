@@ -1,4 +1,4 @@
-#Flutter UI and Designs Examples 
+# Flutter UI and Designs Examples 
 
 In this repository I will be creating useful examples in Flutter to help improve your app performances :100:
 
@@ -18,11 +18,11 @@ By default, inscribes an axis-aligned oval into its layout dimensions and preven
 
 ## Image Slider Demo 
 
-A carousel slider widget, support infinite scroll and custom child widget.
+A Flutter Carousel Slider widget. Support Network and Asset Images. You can modify the UI according your design easily.
 
-The carousel slider dependency ```carousel_slider^2.2.1``` was added in ```pubspec.yaml``` to achieve the result.
+The carousel pro dependency ```carousel_pro: ^1.0.0``` was added in ```pubspec.yaml``` to achieve the result.
 
-See latest version [link](https://pub.dev/packages/carousel_slider/versions)
+See latest version [link](https://pub.dev/packages/carousel_pro/versions)
 
 ### Demo 
 
