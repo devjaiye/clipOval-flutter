@@ -4,7 +4,8 @@ In this repository I will be creating useful examples in Flutter to help improve
 
 If this is helpful feel free to fork and :star: the repo :smiley: 
 
-Demo(s) shown below :small_red_triangle_down:
+See examples below :small_red_triangle_down:
+
 
 ## Clip Oval Demo
 
@@ -15,6 +16,8 @@ By default, inscribes an axis-aligned oval into its layout dimensions and preven
 ### Demo
 
 ![Demo1](https://media.giphy.com/media/eLkENjgm2lGKwAxKe8/giphy.gif)
+
+#
 
 ## Image Slider Demo 
 
@@ -27,3 +30,5 @@ See latest version [link](https://pub.dev/packages/carousel_pro/versions)
 ### Demo 
 
 ![Demo2](https://media0.giphy.com/media/kGWkHiyyOFsArQEJbD/giphy.gif)
+
+#
