@@ -2,9 +2,9 @@
 
 In this repository I will be creating useful examples in Flutter to help improve your app performances :100:
 
-If this is helpful feel free to fork and star the repo :smiley: :hug:
+If this is helpful feel free to fork and :star: the repo :smiley: 
 
-Demo(s) shown below :down:
+Demo(s) shown below :small_red_triangle_down:
 
 ## Clip Oval Demo
 
