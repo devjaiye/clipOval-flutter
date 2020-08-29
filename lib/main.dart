@@ -1,10 +1,13 @@
+import 'package:clip_oval_flutter/screens/image_slider.dart';
+import 'package:clip_oval_flutter/screens/screen_one.dart';
+import 'package:clip_oval_flutter/bankui.dart';
 import 'package:flutter/material.dart';
 
 void main() {
   runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: MyApp()
+        home: ImageCarousel()
       ));
 
 }
